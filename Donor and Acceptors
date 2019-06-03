@@ -1,0 +1,12 @@
+/*
+Enter your query below.
+Please append a semicolon ";" at the end of the query
+*/
+Select shortages.BG from (
+    Select a.BG, d.AMOUNT-a.AMOUNT Shortage
+    from 
+        (Select BG, AMOUNT from DONOR group by BG) a
+         inner join 
+        (Select BG, AMOUNT from ACCEPTOR group by BG) d on a.BG = d.BG
+   )   shortages
+where shortages.Shortage > 0
