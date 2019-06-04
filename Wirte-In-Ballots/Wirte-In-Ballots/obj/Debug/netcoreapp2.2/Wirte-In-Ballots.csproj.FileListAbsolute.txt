@@ -1,0 +1,11 @@
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\bin\Debug\netcoreapp2.2\Wirte-In-Ballots.deps.json
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\bin\Debug\netcoreapp2.2\Wirte-In-Ballots.runtimeconfig.json
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\bin\Debug\netcoreapp2.2\Wirte-In-Ballots.runtimeconfig.dev.json
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\bin\Debug\netcoreapp2.2\Wirte-In-Ballots.dll
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\bin\Debug\netcoreapp2.2\Wirte-In-Ballots.pdb
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\obj\Debug\netcoreapp2.2\Wirte-In-Ballots.csprojAssemblyReference.cache
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\obj\Debug\netcoreapp2.2\Wirte-In-Ballots.csproj.CoreCompileInputs.cache
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\obj\Debug\netcoreapp2.2\Wirte-In-Ballots.AssemblyInfoInputs.cache
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\obj\Debug\netcoreapp2.2\Wirte-In-Ballots.AssemblyInfo.cs
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\obj\Debug\netcoreapp2.2\Wirte-In-Ballots.dll
+C:\Users\jiluo\Documents\Visual Studio 2017\Projects\Wirte-In-Ballots\Wirte-In-Ballots\obj\Debug\netcoreapp2.2\Wirte-In-Ballots.pdb
